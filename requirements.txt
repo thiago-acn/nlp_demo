@@ -1,0 +1,7 @@
+PyPDF2
+python-pptx
+openai
+streamlit
+pytest
+Pillow
+gTTS==2.3.1
